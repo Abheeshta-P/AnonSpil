@@ -1,5 +1,3 @@
-       //sending--> click send twice
-       
        // dom access
         let sendBtn = document.querySelector('.btn-send');
         let anonymousMessage = document.querySelector('#input-text');
@@ -133,6 +131,7 @@
                 idResetUI=setTimeout(() => {
                    resetButtonUI();
                     popupDisplay.classList.remove('popup-visible');
+                    popupImage.src='';
                 }, 8000);
             } 
 
@@ -142,6 +141,7 @@
                 clearTimeout(idPopupTimer);
                 idPopupTimer = setTimeout(() => {
                     popupDisplay.classList.remove('popup-visible');
+                    popupImage.src='';
                 },6000);
                 gifDisplayer('nomsg');
                 popupDisplay.classList.add('popup-visible');
