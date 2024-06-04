@@ -78,6 +78,7 @@ body {
   border: none;
   z-index: 1000;
   outline: none;
+  background-color: white;
 }
 
 .message-h1 {
@@ -90,7 +91,7 @@ body {
   margin-top: 20px;
   font-family: inherit;
   font-size: 2rem;
-  background: white;
+  background-color: white;
   color: rgb(80, 1, 80);
   padding: 0.7em 1em;
   padding-left: 0.9em;
