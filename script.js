@@ -56,8 +56,8 @@
 
         // ****** Web hook logic ******
 
-        //uses discord channel
-        let webhookUrl = 'https://discord.com/api/webhooks/1246783591778877461/xRRgth9W4ZUHKfRQlbXIXATZEXGLeB_mOS227sztXDzuhQnBTBJBRgwQ_YJrt7vt13FH';
+        //uses discord channel , replace webhook url
+        let webhookUrl = 'Webhook url';
 
         // Send message via webhook
         function sendDiscordMessage(message) {
