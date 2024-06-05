@@ -1,6 +1,6 @@
-# 📨 Anon Spil
+<h1 align="center"> 📨 Anon Spil </h1>
 
-Welcome to the **Anonymous Message Sender** project! This web application allows users to send anonymous messages via a webhook. It's a fun and interactive way to share thoughts or ask questions anonymously.
+Welcome to the **AnonSpil** project! This web application allows users to send anonymous messages via a webhook. It's a fun and interactive way to share thoughts or ask questions anonymously.
 
 ## 🌟 Features
 
