@@ -34,7 +34,7 @@ Welcome to the **AnonSpil** project! This web application allows users to send a
 4. **Optional:** Click the randomize button to generate a random question if you're unsure what to write.
 
 ## 🚀 Live 
-[Anonymous messenger](https://anonspil-abheeshta.netlify.app/)
+[Anonymous messenger](https://anonspil.netlify.app/)
 
 ## 🤝 Contributing
 This is not meant for contributing as this is personal project
