@@ -39,5 +39,5 @@ Welcome to the **AnonSpil** project! This web application allows users to send a
 ## 🤝 Contributing
 This is not meant for contributing as this is personal project
 
-### ⚙️All rights are reserved
+> ⚙️All rights are reserved
 
